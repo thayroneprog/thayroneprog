@@ -1,4 +1,4 @@
-![MyImage](https://github.com/thayroneprog/thayroneprog/thayrone.png)
+![MyImage](thayrone.jpeg)
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thayroneprog&show_icons=true&theme=radical)](https://github.com/thayroneprog/github-readme-stats)
