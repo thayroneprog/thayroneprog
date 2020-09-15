@@ -2,7 +2,7 @@
 
 ## Olá Pessoal!!! 👋
 
-Sou o Thayrone e sou desenvolvedor. Atleta nas horas vagas(quando sobra um tempinho kkkk), amo a tecnologia e o que ela pode nos proporcionar. Confira um pouco sobre o meu trabalho. Arrasta pra cima.
+Sou o Thayrone e sou desenvolvedor. Atleta nas horas vagas(quando sobra um tempinho kkkk), amo a tecnologia e o que ela pode nos proporcionar. Aqui no git segue alguns dos meus trabalhos.
 
 ## Tecnologias e Ferramentas
 Em aprendizado constante, tenho algumas ferramentas e tecnologias que sempre estou estudando e colocando algumas coisinhas aqui no meu GitHub.
