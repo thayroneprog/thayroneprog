@@ -1,3 +1,4 @@
+![MyImage](https://github.com/thayroneprog/thayroneprog/thayrone.png)
 ### Hi there 👋
 
 
