@@ -1,18 +1,16 @@
 ![MyImage](https://github.com/thayroneprog/thayroneprog/blob/master/thayrone.jpeg)
-### Hi there 👋
+
+## Olá Pessoal!!! 👋
+
+Sou o Thayrone e sou desenvolvedor. Atleta nas horas vagas(quando sobra um tempinho kkkk), amo a tecnologia e o que ela pode nos proporcionar. Confira um pouco sobre o meu trabalho. Arrasta pra cima.
+
+## Tecnologias e Ferramentas
+Em aprendizado constante, tenho algumas ferramentas e tecnologias que sempre estou estudando e colocando algumas coisinhas aqui no meu GitHub.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayroneprog&layout=compact)](https://github.com/thayroneprog/github-readme-stats)
+
+## GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thayroneprog&show_icons=true&theme=radical)](https://github.com/thayroneprog/github-readme-stats)
 
-**thayroneprog/thayroneprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
